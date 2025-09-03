@@ -1,1 +1,15 @@
 # Tareas_SO1_S2_2025
+
+![Imagen](img/Imagen1.png) 
+![Imagen](img/Imagen2.png) 
+![Imagen](img/Imagen3.png) 
+![Imagen](img/Imagen4.png) 
+![Imagen](img/Imagen5.png) 
+![Imagen](img/Imagen6.png) 
+![Imagen](img/Imagen7.png) 
+![Imagen](img/Imagen8.png) 
+![Imagen](img/Imagen9.png) 
+![Imagen](img/Imagen10.png) 
+![Imagen](img/Imagen11.png) 
+![Imagen](img/Imagen12.png) 
+![Imagen](img/Imagen13.png)
